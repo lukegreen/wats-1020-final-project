@@ -1,0 +1,14 @@
+#card-area {
+  border: 1px solid black;
+  width: 200px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+#text-area {
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 10px;
+}

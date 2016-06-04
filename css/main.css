@@ -13,10 +13,30 @@ body {
 }
 
 img {
-  width: 100%;
+  width: 75%;
   height: auto;
 }
 
+.btn {
+  background-color: black;
+  color: white;
+}
+
+.details {
+  display: none;
+}
+
+.featurette-image {
+  display: none;
+}
+
+.dark-text h1, .dark-text p {
+  color: black;
+}
+
+img.third-slide {
+  margin-top: 
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -143,7 +163,7 @@ img {
   }
 }
 
-@media (max-width: 770px) {
+@media (max-width: 1200px) {
   
   .img-circle {
     height: 200px;
